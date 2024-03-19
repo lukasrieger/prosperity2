@@ -10,3 +10,5 @@
 [Market Making wtf](https://web.stanford.edu/class/cme241/lecture_slides/MarketMaking.pdf)
 
 [2023-Second place](https://github.com/ShubhamAnandJain/IMC-Prosperity-2023-Stanford-Cardinal)
+
+[Pair Trading RL](https://arxiv.org/abs/2304.00364)
